@@ -4,7 +4,7 @@
 
 Ein Minecraft-Challenge-Plugin für **Paper 26.3**, um gemeinsam mit Freunden zu spielen.
 
-Inspiriert von den Videos von **BastiGHG** wollte ich Minecraft-Challenges selbst mit meinen Freunden spielen. Dafür habe ich dieses Plugin entwickelt und stelle es auch anderen zur Verfügung.
+Inspiriert von den Videos von **BastiGHG** wollte ich  ein eigenes Minecraft-Challenge Plugin machen, um ein paar der Challenges selber mit meinen Freunden zu spielen.
 
 ## Challenges
 
