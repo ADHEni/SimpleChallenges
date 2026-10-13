@@ -15,10 +15,10 @@ Inspiriert von den Videos von **BastiGHG** wollte ich Minecraft-Challenges selbs
 | **Achievement Challenge** | Erreiche innerhalb des Zeitlimits möglichst viele Minecraft-Fortschritte. Rezeptfreischaltungen zählen nicht. |
 | **Duo Bingo** | Teams teilen eine Karte mit 20 Aufgaben. Wer die eingestellte Anzahl zuerst erfüllt, gewinnt. Eine Reihe ist nicht nötig; ein Team kann auch allein gespielt werden. |
 | **Skyblock Bingo** | Starte auf deiner eigenen Insel und vervollständige eine Reihe, Spalte oder Diagonale auf der gemeinsamen Bingo-Karte. |
-| **Mob Battle · Solo — Neu in 1.1.0** | Jage zufällig zugewiesene Mobs. Kills und Skips geben Punkte; die meisten Punkte gewinnen. |
-| **Mob Battle · Duo — Neu in 1.1.0** | Teams teilen Ziele, Punkte, Skips und einen Rucksack. Friendly Fire ist aktiviert. |
-| **XP Battle — Neu in 1.1.0** | Erreiche das höchste XP-Level vor Ablauf der Zeit. Tod und ausgegebene Level verringern deinen Rekord nicht. |
-| **Chunkbound · Co-op — Neu in 1.1.0** | Schaltet Nachbarchunks für 1, 2, 3 … Level frei und besiegt gemeinsam den Enderdrachen. Auch der Nether hat freikaufbare Chunks; Portal-Ankunftschunks sind kostenlos und das End ist normal. |
+| **Mob Battle · Solo - Neu in 1.1.0** | Jage zufällig zugewiesene Mobs. Kills und Skips geben Punkte; die meisten Punkte gewinnen. |
+| **Mob Battle · Duo - Neu in 1.1.0** | Teams teilen Ziele, Punkte, Skips und einen Rucksack. Friendly Fire ist aktiviert. |
+| **XP Battle - Neu in 1.1.0** | Erreiche das höchste XP-Level vor Ablauf der Zeit. Tod und ausgegebene Level verringern deinen Rekord nicht. |
+| **Chunkbound · Co-op - Neu in 1.1.0** | Schaltet Nachbarchunks für 1, 2, 3 … Level frei und besiegt gemeinsam den Enderdrachen. Auch der Nether hat freikaufbare Chunks; Portal-Ankunftschunks sind kostenlos und das End ist normal. |
 
 Random Items, Mob Battle und Achievements laufen standardmäßig **zwei Stunden**. XP Battle hat ein einstellbares Zeitlimit. Bingo und Chunkbound haben kein Zeitlimit.
 
