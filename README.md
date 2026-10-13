@@ -15,10 +15,10 @@ Inspired by **BastiGHG**'s videos, I wanted to play Minecraft challenges with my
 | **Achievement Challenge** | Complete as many Minecraft advancements as possible within the time limit. Recipe unlocks do not count. |
 | **Duo Bingo** | Teams share a 20-task card. Complete the configured number of tasks first; a row is not required. You can join a team alone. |
 | **Skyblock Bingo** | Start on your own island and complete a full row, column or diagonal on the shared Bingo card. |
-| **Mob Battle · Solo — New in 1.1.0** | Hunt random mob targets. Kills and skips earn points; most points wins. |
-| **Mob Battle · Duo — New in 1.1.0** | Teams share targets, points, skips and a backpack. Friendly fire is enabled. |
-| **XP Battle — New in 1.1.0** | Reach the highest XP level before time runs out. Deaths and spending levels do not reduce your record. |
-| **Chunkbound · Co-op — New in 1.1.0** | Unlock neighbouring chunks for 1, 2, 3 … levels and defeat the Ender Dragon together. The Nether also uses unlockable chunks; portal arrival chunks are free and the End is normal. |
+| **Mob Battle · Solo - New in 1.1.0** | Hunt random mob targets. Kills and skips earn points; most points wins. |
+| **Mob Battle · Duo - New in 1.1.0** | Teams share targets, points, skips and a backpack. Friendly fire is enabled. |
+| **XP Battle - New in 1.1.0** | Reach the highest XP level before time runs out. Deaths and spending levels do not reduce your record. |
+| **Chunkbound · Co-op - New in 1.1.0** | Unlock neighbouring chunks for 1, 2, 3 … levels and defeat the Ender Dragon together. The Nether also uses unlockable chunks; portal arrival chunks are free and the End is normal. |
 
 Random Items, Mob Battle and Achievements default to **two hours**. XP Battle has a configurable time limit. Bingo and Chunkbound have no time limit.
 
